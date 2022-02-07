@@ -1,0 +1,227 @@
+----------------------------------------------------------------------------------
+Poker Game Started on 2021.10.6 @ 11.15.41
+
+This game is played by 4 players for 10 rounds.
+Used S for Spades, D for Diamonds, H for Hearts, C for Clubs.
+______________________________________________________________
+
+
+Round 1
+
+Dealer's hand : 4-H  J-H  7-D  5-H  3-D  
+Entered players : Player 1  Player 3  Player 4  
+
+Round winner : Dealer
+______________________________________________________________
+
+	Poker Game Score Card after round 1
+______________________________________________________________
+	Player		Marks		Win probability
+______________________________________________________________
+
+	Player 1	-1		0.225
+	Player 2	0		0.325
+	Player 3	-1		0.225
+	Player 4	-1		0.225
+______________________________________________________________
+
+
+Round 2
+
+Dealer's hand : K-D  9-S  4-H  9-C  4-S  
+Entered players : Player 1  Player 2  Player 4  
+
+Round winner : Player 1
+______________________________________________________________
+
+	Poker Game Score Card after round 2
+______________________________________________________________
+	Player		Marks		Win probability
+______________________________________________________________
+
+	Player 1	9		0.4
+	Player 2	-1		0.218182
+	Player 3	-1		0.218182
+	Player 4	-2		0.2
+______________________________________________________________
+
+
+Round 3
+
+Dealer's hand : 4-D  6-S  10-S  9-H  7-S  
+Entered players : Player 1  Player 2  Player 3  Player 4  
+
+Round winner : Player 2
+______________________________________________________________
+
+	Poker Game Score Card after round 3
+______________________________________________________________
+	Player		Marks		Win probability
+______________________________________________________________
+
+	Player 1	8		0.45
+	Player 2	9		0.475
+	Player 3	-2		0.2
+	Player 4	-3		0.175
+______________________________________________________________
+
+
+Round 4
+
+Dealer's hand : 3-H  8-C  7-H  A-H  6-C  
+Entered players : Player 2  Player 4  
+
+Round winner : Dealer
+______________________________________________________________
+
+	Poker Game Score Card after round 4
+______________________________________________________________
+	Player		Marks		Win probability
+______________________________________________________________
+
+	Player 1	8		0.55
+	Player 2	8		0.55
+	Player 3	-2		0.216667
+	Player 4	-4		0.15
+______________________________________________________________
+
+
+Round 5
+
+Dealer's hand : 5-H  8-S  6-S  Q-C  3-S  
+Entered players : Player 1  Player 2  Player 3  
+
+Round winner : Player 2
+______________________________________________________________
+
+	Poker Game Score Card after round 5
+______________________________________________________________
+	Player		Marks		Win probability
+______________________________________________________________
+
+	Player 1	7		0.375
+	Player 2	18		0.625
+	Player 3	-3		0.147727
+	Player 4	-4		0.125
+______________________________________________________________
+
+
+Round 6
+
+Dealer's hand : 7-H  2-H  J-D  5-S  5-D  
+Entered players : Player 4  
+
+Round winner : Dealer
+______________________________________________________________
+
+	Poker Game Score Card after round 6
+______________________________________________________________
+	Player		Marks		Win probability
+______________________________________________________________
+
+	Player 1	7		0.413043
+	Player 2	18		0.7
+	Player 3	-3		0.152174
+	Player 4	-5		0.1
+______________________________________________________________
+
+
+Round 7
+
+Dealer's hand : 10-H  3-H  K-H  7-S  3-D  
+Entered players : Player 1  Player 2  Player 3  Player 4  
+
+Round winner : Player 1
+______________________________________________________________
+
+	Poker Game Score Card after round 7
+______________________________________________________________
+	Player		Marks		Win probability
+______________________________________________________________
+
+	Player 1	17		0.775
+	Player 2	17		0.775
+	Player 3	-4		0.13587
+	Player 4	-6		0.075
+______________________________________________________________
+
+
+Round 8
+
+Dealer's hand : Q-C  10-H  7-C  4-H  A-S  
+Entered players : Player 1  Player 2  Player 3  Player 4  
+
+Round winner : Player 2
+______________________________________________________________
+
+	Poker Game Score Card after round 8
+______________________________________________________________
+	Player		Marks		Win probability
+______________________________________________________________
+
+	Player 1	16		0.591177
+	Player 2	27		0.85
+	Player 3	-5		0.0970588
+	Player 4	-7		0.05
+______________________________________________________________
+
+
+Round 9
+
+Dealer's hand : 8-S  J-S  K-C  7-C  5-D  
+Entered players : Player 2  Player 4  
+
+Round winner : Player 2
+______________________________________________________________
+
+	Poker Game Score Card after round 9
+______________________________________________________________
+	Player		Marks		Win probability
+______________________________________________________________
+
+	Player 1	16		0.505
+	Player 2	37		0.925
+	Player 3	-5		0.085
+	Player 4	-8		0.025
+______________________________________________________________
+
+
+Round 10
+
+Dealer's hand : 8-S  7-D  10-S  6-H  J-D  
+Entered players : Player 1  Player 2  Player 3  Player 4  
+
+Round winner : Player 1
+______________________________________________________________
+
+	Poker Game Score Card after round 10
+______________________________________________________________
+	Player		Marks		Win probability
+______________________________________________________________
+
+	Player 1	26		0.777778
+	Player 2	36		1
+	Player 3	-6		0.0666667
+	Player 4	-9		0
+______________________________________________________________
+
+
+Poker Game Ended on 2021.10.6 @ 11.16.28
+----------------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------------
+Poker Game Started on 2021.12.26 @ 15.10.15
+
+This game is played by 4 players for 10 rounds.
+Used S for Spades, D for Diamonds, H for Hearts, C for Clubs.
+______________________________________________________________
+
+----------------------------------------------------------------------------------
+Poker Game Started on 2022.2.7 @ 15.5.4
+
+This game is played by 4 players for 10 rounds.
+Used S for Spades, D for Diamonds, H for Hearts, C for Clubs.
+______________________________________________________________
+
